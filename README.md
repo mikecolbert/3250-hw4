@@ -13,6 +13,24 @@ Scraping and joining data.
 
 &#128640;
 
+
+Project-Root/
+├── README.md
+├── pyproject.toml
+├── src/
+│   ├── main.py
+│   ├── utils.py
+│   └── modules/
+│       ├── module1.py
+│       └── module2.py
+├── tests/
+│   ├── test_main.py
+│   └── test_utils.py
+└── requirements.txt
+
+
+
+
   Repository
     ├── README  
     ├── Other  
